@@ -32,6 +32,15 @@ Windows-Instalation
     * Driver Leitor Cartão
     * Driver Audio
     * Driver Leitor Biometrico (KeepSafe)
+    
+- Desativar Recursos do Windows (Pendende)
+ 
+- Atualizar o Sistema (unicos pacotes não instalados referem-se ao IE10)
+
+- Instalar UPDATE
+   * UPDATE 1 - http://www.microsoft.com/pt-br/download/details.aspx?id=42335
+   * UPDATE 2 - http://www.microsoft.com/pt-BR/download/details.aspx?id=44055
+   * UPDATE 3 - http://www.microsoft.com/pt-br/download/details.aspx?id=44977
 
 - Instalar Winrar
 
