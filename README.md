@@ -34,6 +34,8 @@ Windows-Instalation
     * Driver Leitor Biometrico (KeepSafe)
     
 - Desativar Recursos do Windows (Pendende)
+   * IE10
+   * Visualizador XPS
  
 - Atualizar o Sistema (unicos pacotes não instalados referem-se ao IE10)
 
